@@ -1,0 +1,35 @@
+0 1 2 3 
+4 2 2 5 
+2 2 6 7 
+8 6 6 9 
+
+IDs connecting 1 2...
+6 8 
+
+IDs connecting 1 3...
+3 5 
+
+IDs connecting 1 7...
+5 7 6 7 
+
+IDs connecting 1 9...
+2 5 2 6 6 9 
+
+IDs connecting 2 3...
+0 1 
+
+IDs connecting 2 4...
+0 4 
+
+IDs connecting 2 9...
+2 8 
+
+IDs connecting 3 9...
+1 2 2 3 
+
+IDs connecting 4 9...
+2 4 
+
+IDs connecting 7 9...
+7 9 
+
